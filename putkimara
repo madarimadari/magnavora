@@ -261,7 +261,7 @@ https://ooyalahd2-f.akamaihd.net/i/mtaeng_delivery@345736/index_3000_av-p.m3u8
 #EXTINF:-1 tvg-name="MTA 1 Urdu" tvg-logo="https://i.imgur.com/b3nn216.png" group-title="Religious Channel",MTA 1 Urdu
 https://ooyalahd2-f.akamaihd.net/i/mtaurdu_delivery@350117/index_3000_av-p.m3u8
 
-Informative Channel
+                                                                         Informative Channel
 
 #EXTINF:-1 tvg-name="Discovery" tvg-logo="https://toppng.com/uploads/preview/discovery-channel-logo-vector-11574229905pblh5eesph.png" group-title="Informative Channel",Discovery
 https://livecdn.fptplay.net/qnetlive/discovery_hls.smil/chunklist.m3u8
