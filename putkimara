@@ -266,7 +266,7 @@ https://ooyalahd2-f.akamaihd.net/i/mtaurdu_delivery@350117/index_3000_av-p.m3u8
 #EXTINF:-1 tvg-name="Discovery" tvg-logo="https://toppng.com/uploads/preview/discovery-channel-logo-vector-11574229905pblh5eesph.png" group-title="Informative Channel",Discovery
 https://livecdn.fptplay.net/qnetlive/discovery_hls.smil/chunklist.m3u8
 
-#EXTINF:-1 tvg-name="Discovery" tvg-logo="https://toppng.com/uploads/preview/discovery-channel-logo-vector-11574229905pblh5eesph.png" group-title="Informative Channel",Discovery Hindi
+#EXTINF:-1 tvg-name="Discovery" tvg-logo="https://toppng.com/uploads/preview/discovery-channel-logo-vector-11574229905pblh5eesph.png" group-title="Informative Channel",Discovery
 http://bdvisioniptv.ddns.net:25461/live/tonmay23/7252/108.m3u8
 
 #EXTINF:-1 tvg-name="Discovery Showcase" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Discovery_Showcase_Logo.png" group-title="Informative Channel",Discovery Showcase
